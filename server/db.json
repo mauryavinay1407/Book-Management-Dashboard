@@ -1,0 +1,452 @@
+{
+  "books": [
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949,
+      "status": "Available"
+    },
+    {
+      "id": "4",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": 1851,
+      "status": "Available"
+    },
+    {
+      "id": "5",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "year": 1813,
+      "status": "Issued"
+    },
+    {
+      "id": "6",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "genre": "Historical",
+      "year": 1869,
+      "status": "Available"
+    },
+    {
+      "id": "7",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951,
+      "status": "Available"
+    },
+    {
+      "id": "8",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Dystopian",
+      "year": 1932,
+      "status": "Issued"
+    },
+    {
+      "id": "10",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "status": "Issued"
+    },
+    {
+      "id": "11",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical",
+      "year": 1866,
+      "status": "Available"
+    },
+    {
+      "id": "12",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic",
+      "year": -700,
+      "status": "Available"
+    },
+    {
+      "id": "13",
+      "title": "The Iliad",
+      "author": "Homer",
+      "genre": "Epic",
+      "year": -750,
+      "status": "Issued"
+    },
+    {
+      "id": "14",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical",
+      "year": 1862,
+      "status": "Available"
+    },
+    {
+      "id": "15",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "year": 1818,
+      "status": "Issued"
+    },
+    {
+      "id": "16",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "year": 1897,
+      "status": "Available"
+    },
+    {
+      "id": "17",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical",
+      "year": 1880,
+      "status": "Available"
+    },
+    {
+      "id": "18",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical",
+      "year": 1859,
+      "status": "Issued"
+    },
+    {
+      "id": "19",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "genre": "Fiction",
+      "year": 1861,
+      "status": "Available"
+    },
+    {
+      "id": "20",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Romance",
+      "year": 1847,
+      "status": "Available"
+    },
+    {
+      "id": "21",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": 1988,
+      "status": "Issued"
+    },
+    {
+      "id": "22",
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "genre": "Philosophical",
+      "year": 1922,
+      "status": "Available"
+    },
+    {
+      "id": "23",
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic",
+      "year": 2006,
+      "status": "Available"
+    },
+    {
+      "id": "24",
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Drama",
+      "year": 2003,
+      "status": "Issued"
+    },
+    {
+      "id": "25",
+      "title": "A Thousand Splendid Suns",
+      "author": "Khaled Hosseini",
+      "genre": "Drama",
+      "year": 2007,
+      "status": "Available"
+    },
+    {
+      "id": "26",
+      "title": "Animal Farm",
+      "author": "George Orwell",
+      "genre": "Political satire",
+      "year": 1945,
+      "status": "Issued"
+    },
+    {
+      "id": "27",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "year": 1953,
+      "status": "Available"
+    },
+    {
+      "id": "28",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Philosophical",
+      "year": 1890,
+      "status": "Available"
+    },
+    {
+      "id": "29",
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "genre": "Philosophical",
+      "year": 1942,
+      "status": "Issued"
+    },
+    {
+      "id": "30",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "genre": "Adventure",
+      "year": 1844,
+      "status": "Available"
+    },
+    {
+      "id": "31",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "genre": "Adventure",
+      "year": 1605,
+      "status": "Available"
+    },
+    {
+      "id": "32",
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "genre": "Fiction",
+      "year": 1952,
+      "status": "Issued"
+    },
+    {
+      "id": "33",
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "genre": "Satire",
+      "year": 1961,
+      "status": "Available"
+    },
+    {
+      "id": "34",
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Historical",
+      "year": 1987,
+      "status": "Issued"
+    },
+    {
+      "id": "35",
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "genre": "Fiction",
+      "year": 1963,
+      "status": "Available"
+    },
+    {
+      "id": "36",
+      "title": "Lolita",
+      "author": "Vladimir Nabokov",
+      "genre": "Fiction",
+      "year": 1955,
+      "status": "Available"
+    },
+    {
+      "id": "37",
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "genre": "Fiction",
+      "year": 1926,
+      "status": "Issued"
+    },
+    {
+      "id": "38",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "genre": "Science Fiction",
+      "year": 1969,
+      "status": "Available"
+    },
+    {
+      "id": "39",
+      "title": "On the Road",
+      "author": "Jack Kerouac",
+      "genre": "Fiction",
+      "year": 1957,
+      "status": "Available"
+    },
+    {
+      "id": "40",
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian",
+      "year": 1985,
+      "status": "Issued"
+    },
+    {
+      "id": "41",
+      "title": "Invisible Man",
+      "author": "Ralph Ellison",
+      "genre": "Fiction",
+      "year": 1952,
+      "status": "Available"
+    },
+    {
+      "id": "42",
+      "title": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "genre": "Historical",
+      "year": 1958,
+      "status": "Available"
+    },
+    {
+      "id": "43",
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Adventure",
+      "year": 2001,
+      "status": "Issued"
+    },
+    {
+      "id": "44",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "genre": "Children",
+      "year": 1911,
+      "status": "Available"
+    },
+    {
+      "id": "45",
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "genre": "Historical",
+      "year": 2005,
+      "status": "Issued"
+    },
+    {
+      "id": "46",
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Romance",
+      "year": 2012,
+      "status": "Available"
+    },
+    {
+      "id": "47",
+      "title": "Eleanor & Park",
+      "author": "Rainbow Rowell",
+      "genre": "Romance",
+      "year": 2013,
+      "status": "Available"
+    },
+    {
+      "id": "48",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "year": 2012,
+      "status": "Issued"
+    },
+    {
+      "id": "49",
+      "title": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "genre": "Thriller",
+      "year": 2015,
+      "status": "Available"
+    },
+    {
+      "id": "50",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2003,
+      "status": "Available"
+    },
+    {
+      "id": "51",
+      "title": "Angels & Demons",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": 2000,
+      "status": "Issued"
+    },
+    {
+      "id": "52",
+      "title": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1977,
+      "status": "Available"
+    },
+    {
+      "id": "53",
+      "title": "It",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1986,
+      "status": "Available"
+    },
+    {
+      "id": "54",
+      "title": "Misery",
+      "author": "Stephen King",
+      "genre": "Thriller",
+      "year": 1987,
+      "status": "Issued"
+    },
+    {
+      "id": "55",
+      "title": "Pet Sematary",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "year": 1983,
+      "status": "Available"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960,
+      "status": "Issued"
+    },
+    {
+      "id": "55fb",
+      "title": "New random book",
+      "author": "John doe",
+      "genre": "epic",
+      "year": "2025",
+      "status": "Available"
+    },
+    {
+      "id": "1",
+      "title": "The Great Gatsky",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": "1923",
+      "status": "Available"
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937,
+      "status": "Available"
+    }
+  ]
+}
