@@ -1,0 +1,18 @@
+export const genreOptions = [
+  'Fiction',
+  'Dystopian',
+  'Adventure',
+  'Romance',
+  'Historical',
+  'Fantasy',
+  'Philosophical',
+  'Epic',
+  'Horror',
+  'Post-apocalyptic',
+  'Drama',
+  'Political Satire',
+  'Satire',
+  'Science Fiction',
+  'Children',
+  'Thriller',
+];
